@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "👋 This is Yukai Wang"
-excerpt: "👋 This is Yukai Wang"
+title: "👋 Hi there !"
+excerpt: "👋 This is Yukai Wang's academic homepage !"
 author_profile: true
 redirect_from: 
   - /about/

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior at [School of Computer Science and Enigneering](https://cse.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). 
+I'm a senior at [School of Computer Science and Enigneering](https://cse.XXX.edu.cn/), [XXX University](https://www.XXX.edu.cn/). 
 
 My research interest includes NLP, CV, ....
 
